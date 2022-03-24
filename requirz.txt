@@ -1,3 +1,3 @@
 requests
-pickle
-urllib
+pickle5
+urllib3
