@@ -4,7 +4,7 @@
 import requests
 import sys
 import pickle
-from urllib2 import Request
+import urllib3
 from time import sleep
 
 
